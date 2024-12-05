@@ -1,5 +1,3 @@
----
-
 ### Hi there 👋
 
 **mfagri**  
@@ -9,7 +7,6 @@ Mobile Developer | Flutter & Swift Enthusiast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfagri&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 As a mobile developer specializing in **Flutter** and **Swift**, I create seamless and efficient apps. Check out some of my work:
 
@@ -19,6 +16,5 @@ As a mobile developer specializing in **Flutter** and **Swift**, I create seamle
 2. **Second App - CHAFER CAMP**  
    [Download on APKPure](https://apkpure.com/developer/CHAFER%20CAMP)
 
----
 
 Let me know if you need further adjustments!
