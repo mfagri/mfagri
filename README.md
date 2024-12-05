@@ -10,10 +10,10 @@ Mobile Developer | Flutter & Swift Enthusiast
 
 As a mobile developer specializing in **Flutter** and **Swift**, I create seamless and efficient apps. Check out some of my work:
 
-1. **First App - Mfagri Store**  
+1. **First Store - Mfagri Store**  
    [Download on APKPure](https://apkpure.com/ar/developer/Mfagri%20Store)
 
-2. **Second App - CHAFER CAMP**  
+2. **Second Store - CHAFER CAMP**  
    [Download on APKPure](https://apkpure.com/developer/CHAFER%20CAMP)
 
 
