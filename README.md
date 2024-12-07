@@ -1,18 +1,113 @@
-
 # Hi there! 👋 I'm Marouane Fagri
 
 <div align="center">
   <img src="https://badge.mediaplus.ma/binary/mfagri" alt="mfagri's 42 stats" />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfagri&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfagri&show_icons=true&theme=radical)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfagri&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ## 📱 About Me
 I'm a passionate Mobile Developer specializing in Flutter and Swift, dedicated to creating seamless and efficient mobile applications. My work spans across various domains including fintech, analytics, gaming, and utility apps.
 
+[![Flutter](https://img.shields.io/badge/Flutter-Specialist-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-Expert-blue?style=for-the-badge&logo=dart)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Advanced-orange?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Practitioner-green?style=for-the-badge)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+## 💫 Quick Stats
+- 🔭 Currently working on mobile app development
+- 🌱 Learning advanced iOS development
+- 💬 Ask me about Flutter, Dart, and mobile architecture
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
+
+## 📱 My App Stores
+- [Mfagri Store on APKPure](https://apkpure.com/ar/developer/Mfagri%20Store)
+- [CHAFER CAMP on APKPure](https://apkpure.com/developer/CHAFER%20CAMP)
+
+## 💡 Technical Expertise
+
+### Architecture & Design Patterns
+- MVVM (Model-View-ViewModel) Architecture implementation
+- Clean Architecture principles for scalable and maintainable code
+- Provider & GetX for efficient state management
+- SOLID principles adherence
+- Repository pattern for data layer abstraction
+- Dependency injection for modular development
+
+### Development Practices
+- Test-Driven Development (TDD) with unit and widget tests
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Performance optimization and profiling
+- Memory leak prevention and management
+- Custom widget development
+- Responsive and adaptive design implementation
+
+### Key Technical Skills
+- MVVM pattern implementation
+- Provider & GetX state management
+- Custom animations and transitions
+- RESTful API integration
+- Real-time data synchronization
+- Local data persistence
+- Push notifications
+- Payment gateway integration
+- Social media integration
+- Map integration and geolocation services
+- Biometric authentication
+
+### Cross-Platform Expertise
+- Platform-specific UI/UX implementation
+- Native feature integration
+- Custom platform channels
+- Hardware feature access
+- Background processing
+
+## 🛠 Development Toolkit
+
+### Primary Technologies
+- Flutter & Dart
+- Firebase Suite
+- RESTful APIs
+- WebSocket
+- SQLite
+- Provider & GetX for State Management
+- MVVM Architecture
+- Clean Code Practices
+
+### Development Tools
+- VS Code & Android Studio
+- Git & GitHub
+- Firebase Analytics
+- Crashlytics
+- Google Play Console
+- App Store Connect
+- Postman
+- Figma
+
+## 📊 Metrics & Achievements
+- 8+ Successfully Deployed Applications
+- 100% On-Time Project Delivery
+- 4.5+ Average App Store Rating
+- 99.9% Crash-Free Sessions
+- Optimized Load Time < 2 seconds
+- 60+ FPS Performance Standard
+
+> **⚠️ Important:** For the best experience with the live demos:
+> 1. Open the demo links on your mobile device, OR
+> 2. Use your browser's device emulation (DevTools):
+>    - Press `F12` to open DevTools
+>    - Click the "Toggle Device Toolbar" button (or press `Ctrl+Shift+M`)
+>    - Select a mobile device (e.g., iPhone 12 Pro)
+>
+> This ensures you'll see the apps as they're meant to be experienced on mobile devices!
+
 ## 🚀 Featured Projects
 
-### 1. syndix
+### 1. Payment Input Form
 [![Payment Input Form Demo](https://img.shields.io/badge/Demo-Live%20Preview-blue?style=for-the-badge)](https://mfagri.github.io/syndix/)
 
 A modern payment form interface built with Flutter, featuring clean design and seamless payment processing capabilities.
@@ -188,10 +283,6 @@ A modern coffee shop application with menu browsing and rewards system.
 - Flutter
 - Dart
 
-## 📱 My Stores
-- [Mfagri Store on APKPure](https://apkpure.com/ar/developer/Mfagri%20Store)
-- [CHAFER CAMP on APKPure](https://apkpure.com/developer/CHAFER%20CAMP)
-
 **Key Features:**
 - Interactive menu browsing
 - Reward points system
@@ -202,16 +293,67 @@ A modern coffee shop application with menu browsing and rewards system.
 
 [📺 Watch Demo Video](https://youtube.com/shorts/C_31WsueUpU)
 
+## 📈 Development Process
+
+### 1. Planning & Analysis
+- Requirement gathering and analysis
+- Technical feasibility assessment
+- Architecture planning
+- UI/UX wireframing
+- Project timeline estimation
+
+### 2. Development
+- Clean code practices
+- Regular code reviews
+- Comprehensive documentation
+- Performance optimization
+- Security best practices
+
+### 3. Quality Assurance
+- Automated testing
+- Manual testing
+- Performance testing
+- Security testing
+- User acceptance testing
+
+### 4. Deployment & Maintenance
+- CI/CD pipeline setup
+- App store optimization
+- Regular updates and maintenance
+- User feedback implementation
+- Performance monitoring
+
+## 🎯 Areas of Specialization
+- **E-commerce Applications**
+  - Payment gateway integration
+  - Shopping cart implementation
+  - Order tracking systems
+  - Inventory management
+
+- **Social Media Apps**
+  - Real-time messaging
+  - Media sharing
+  - Social feed algorithms
+  - User engagement features
+
+- **Location-Based Services**
+  - Maps integration
+  - Geofencing
+  - Location tracking
+  - Navigation systems
+
+- **Enterprise Solutions**
+  - Secure authentication
+  - Role-based access control
+  - Data encryption
+  - Offline functionality
+
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marouane-fagri-b281a6209/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mfagri)
 
 ---
 
-*Note: All projects are built with Flutter and showcase different aspects of mobile development. Click on the badges or links above to view live demos or video demonstrations.*
-
-
----
 <div align="center">
   Made with ❤️ by Mfagri
 </div>
